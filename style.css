@@ -242,10 +242,12 @@ section {
 .about-content h2 {
     text-align: center;
     line-height: 1.2;
+    color: green;
 }
 
 .about-content h3 {
     font-size: 2.6rem;
+    color: green;
 }
 
 .about-content p {
