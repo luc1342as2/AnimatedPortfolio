@@ -111,7 +111,7 @@ section {
     font-weight: 450;
     line-height: 1.3;
     margin: 0;
-    color: blue;
+    color: black;
     opacity: 0;
     animation: slideRight 1s ease forwards;
     animation-delay: .5s;
@@ -128,7 +128,7 @@ section {
 .home-content h3 {
     font-size: 2.5rem;
     font-weight: 650;
-    color: blue;
+    color: black;
     opacity: 0;
     animation: slideBottom 1s ease forwards;
     animation-delay: .7s;
@@ -248,12 +248,12 @@ section {
 .about-content h2 {
     text-align: center;
     line-height: 1.2;
-    color: blue;
+    color: black;
 }
 
 .about-content h3 {
     font-size: 2.6rem;
-    color: blue;
+    color: black;
 }
 
 .about-content p {
@@ -318,7 +318,7 @@ section {
     margin-top: -30px;
     text-align: center;
     line-height: 10%;
-    color: blue;
+    color: black;
     font-size: 40px;
     height: 35px;
 }
@@ -328,6 +328,9 @@ section {
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 2rem;
+    flex: 1 1 10;
+    max-width: 100%;
+    box-sizing: border-box; 
 }
 
 .article-container {
@@ -371,7 +374,7 @@ article {
 }
 
 .certificate .heading {
-    color: blue;
+    color: black;
 }
 
 .certificate-content {
@@ -444,14 +447,14 @@ article {
 }
 
 .section__text__p1 {
-    color: blue;
+    color: solid black;
     text-align: center;
     font-size: 30px;
     margin-top: -50px;
 }
 
 .title {
-    color: blue;
+    color: solid black;
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 40px;
@@ -530,11 +533,11 @@ article {
 }
 
 #contact .section__text__p1 {
-    color: blue; 
+    color: bold black; 
 }
 
 #contact .title {
-    color: blue; 
+    color: solid black; 
 }
 
 .contact-info-upper-container {
@@ -668,3 +671,4 @@ footer p {
         max-width: 100%; 
     }
 }
+
