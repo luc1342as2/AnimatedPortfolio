@@ -1,4 +1,4 @@
-/** Main page words changing. */
+/** Main page words changing. */      
 var typed = new Typed(".multiple-text", {
     strings: ["Aspiring IT Specialist", "Aspiring Cyber Security Analyst", "Aspiring Programmer", "Aspiring Web Developer",], 
     typeSpeed: 100,
