@@ -1,2 +1,1 @@
-# AnimatedPortfolio
-Creation of my Animated Portfolio
+I designed and developed my personal portfolio using modern web technologies to showcase my skills, projects, and achievements. This interactive and animated portfolio reflects my attention to detail and passion for creating engaging user experiences. It’s a dynamic platform where I highlight my work and connect with visitors. Explore it here: Animated Portfolio.
