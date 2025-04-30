@@ -1,6 +1,6 @@
 /** Main page words changing. */      
 var typed = new Typed(".multiple-text", {
-    strings: ["Aspiring PLC Programmer", "Aspiring Cyber Security Analyst", "Aspiring IT Specialist", "Aspiring Web Developer",], 
+    strings: ["Aspiring PLC Programmer", "Aspiring Cyber Security Analyst", "Aspiring Web Developer",], 
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
